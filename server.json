@@ -3,8 +3,12 @@
   "name": "app.fundingtracker/fundingtracker",
   "title": "FundingTracker",
   "description": "MCA calculators, funder directory and guides, plus sign-in access to your own deals and payments.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://fundingtracker.app",
+  "repository": {
+    "url": "https://github.com/Mikelb32/fundingtracker-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://fundingtracker.app/icon-512.png",
