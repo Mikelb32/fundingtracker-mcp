@@ -1,0 +1,11 @@
+{
+  "name": "fundingtracker",
+  "version": "1.1.0",
+  "description": "Merchant cash advance (MCA) calculators, a public funder directory and MCA guides, plus sign-in access to your own FundingTracker deals and payments.",
+  "mcpServers": {
+    "fundingtracker": {
+      "url": "https://fundingtracker.app/api/mcp",
+      "type": "http"
+    }
+  }
+}

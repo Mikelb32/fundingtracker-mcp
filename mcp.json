@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "fundingtracker": {
+      "url": "https://fundingtracker.app/api/mcp"
+    }
+  }
+}

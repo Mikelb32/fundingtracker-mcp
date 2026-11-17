@@ -1,0 +1,21 @@
+{
+  "name": "fundingtracker",
+  "description": "Merchant cash advance (MCA) calculators, a public funder directory and MCA guides, plus sign-in access to your own FundingTracker deals and payments.",
+  "version": "1.1.0",
+  "author": {
+    "name": "FundingTracker",
+    "email": "info@fundingtracker.app"
+  },
+  "homepage": "https://fundingtracker.app/ai-assistants",
+  "repository": "https://github.com/Mikelb32/fundingtracker-mcp",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "merchant-cash-advance",
+    "mca",
+    "small-business",
+    "calculator",
+    "lending"
+  ],
+  "logo": "assets/logo.png"
+}
